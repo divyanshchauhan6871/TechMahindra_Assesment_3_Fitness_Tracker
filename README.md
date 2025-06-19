@@ -1,19 +1,28 @@
 # fitness_tracker
 
-A new Flutter project.
+🏃‍♂️ Activity Tracker & BMI Calculator App
+This Flutter application allows users to add and track daily activities, calculate their Body Mass Index (BMI), and view all added activities in a simple list view.
 
-## Getting Started
+✨ Features
+✅ Add and manage custom activities
 
-This project is a starting point for a Flutter application.
+📋 View a list of all logged activities
 
-A few resources to get you started if this is your first Flutter project:
+🧮 BMI Calculator with instant results
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📱 Clean and user-friendly UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📊 Helps promote fitness awareness and activity tracking
+
+📱 Built With
+Flutter (Dart)
+
+Material Design UI
+
+Local state management for storing activity data
+
+🎯 Purpose
+The app is designed to help users stay aware of their daily activities and physical health by logging tasks and checking BMI anytime. It is ideal for personal health tracking or as a learning project for Flutter development.
 
 <img src="https://github.com/user-attachments/assets/c2c580f3-1680-4e91-90a4-6cf76a9a700f" alt="screen1" width="300"/>
 <img src="https://github.com/user-attachments/assets/886cf84f-64c5-45cc-89c7-3089c809a751" alt="screen2" width="300"/>
